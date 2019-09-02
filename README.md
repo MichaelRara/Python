@@ -1,4 +1,4 @@
-# Python video processing project
+# Python - video processing project
 
 This is my video processing project.
 The goal of the project was to upgrade quality of a video captured by a high-speed camera.
